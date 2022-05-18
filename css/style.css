@@ -1,0 +1,67 @@
+html {
+    box-sizing: border-box;
+}
+*,::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: "Lato", sans-serif;
+    font-size: 30px;
+    color:white;
+    background-image:url("../images/tlo.jpg");
+    background-size:350px;
+    background-repeat: repeat-x;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.form__fieldset {
+    border: 3px solid;
+}
+
+.form__legend {
+    background-color: rgb(211, 225, 229);
+    color: black;
+    border: solid;
+    border-radius: 10px;
+}
+
+.form__labelText {
+    width: 100%;
+    padding: 5px;
+    font-size: 40px;
+}
+
+.form__input {
+    max-width: 150px;
+    padding: 5px;
+    background-color: rgb(255, 254, 240);
+}
+
+.form__button {
+    margin-top: 10px;
+    max-width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(211, 225, 229);
+    color: black;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: rgb(237, 187, 126) ;
+}
+
+.form__result {
+    text-align: center;
+}
+
+.text {
+    font-size: 20px;
+    font-style: italic;
+}
