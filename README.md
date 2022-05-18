@@ -8,5 +8,5 @@
 - Function with switch
 ### Demo
   https://patrycjapawlik.github.io/Currency-calculator/
-  ![Kantor]([https://i.postimg.cc/YS7K3ghj/share.png](https://i.postimg.cc/sD8Zvf1T/kalkulator.png))
+  ![Kantor](https://i.postimg.cc/YS7K3ghj/share.png](https://i.postimg.cc/sD8Zvf1T/kalkulator.png)
   
